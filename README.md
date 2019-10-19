@@ -12,3 +12,5 @@ Then we need to come up with a hook or riff.
 
 Then we need to come up with a melody.
 
+and Then we add the words or lyrics.
+
