@@ -6,3 +6,6 @@ The song is a happy song.
 
 
 We need to come up with a chord progression 1st.
+
+Then we need to come up with a hook or riff.
+
