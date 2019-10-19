@@ -14,3 +14,5 @@ Then we need to come up with a melody.
 
 and Then we add the words or lyrics.
 
+you can start adding lyrics to a verse or start adding words to the chorus.
+
