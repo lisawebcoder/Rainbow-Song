@@ -9,3 +9,6 @@ We need to come up with a chord progression 1st.
 
 Then we need to come up with a hook or riff.
 
+
+Then we need to come up with a melody.
+
